@@ -1,0 +1,99 @@
+.calculator {
+    /* display: flex;
+    flex-direction: column;
+    flex: 1 1;
+    width: 60%;
+    max-height: 600px;
+    padding-top: 1vmin;
+    margin: 1vmin;
+    background-color: grey;
+    border: 1px solid black; */
+    width: 55%;
+    max-height: 70%;
+    justify-content: center;
+    background-color: grey;
+    border: 1px solid black;
+    margin: 1vmin;
+    padding-top: 1vmin;
+}
+.calcRow {
+    display: flex;
+    flex-direction: row;
+    flex: 1 1;
+    height: 85%;
+}
+.display {
+    display: flex;
+    flex-direction: column-reverse;
+    overflow: scroll;
+    justify-content: right;
+    font-size: 3vmin;
+    text-align: bottom;
+    height: 11vmin;
+    padding: 0vmin;
+    padding-bottom: 0;
+    margin: 1vmin;
+    margin-bottom: 0;
+    margin-top: 0;
+    background-color: teal;
+    border-bottom: 1px solid teal;
+    color: white;
+}
+.calcScroll {
+    display: flex;
+    flex-direction: column;
+    justify-content: bottom;
+    font-size: 4vmin;
+}
+.numberButton {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: "4vmin";
+    color: orange;
+    margin: 1vmin;
+    border: 1px solid black;
+}
+.operation {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    font-size: 3vmin;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    margin: 1vmin;
+}
+.numPad {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex: 5 1;
+    justify-content: center;
+    justify-items: normal;
+    /* border: 1px solid black; */
+    margin: 1vmin;
+    max-height: 100%;
+}
+.operationPad {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    /* border: 1px solid black; */
+    margin: 1vmin;
+    margin-left: 0;
+}
+img {
+    max-width: 50%;
+    max-height: 50%;
+    display: block; /* remove extra space below image */
+}
+.displayRow {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    border: black;
+}

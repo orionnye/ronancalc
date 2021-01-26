@@ -1,0 +1,38 @@
+.App {
+  /* display: flex;
+  flex-direction: column;
+  flex: 1 1; */
+  height: 80%;
+  overflow: none;
+  text-align: center;
+}
+body {
+  border: 0px;
+  padding: 0px;
+  background-color: beige;
+}
+.row {
+  display: -webkit-box;
+
+  /* border: 3px solid black; */
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.banner {
+  background-color: black;
+  color:orange;
+  font-size: 4vmin;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 1vmin;
+  margin-bottom: 1vmin;
+}
+.acronym {
+  background-color: black;
+  color:white;
+  font-size: 7vmin;
+}
