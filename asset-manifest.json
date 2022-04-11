@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ronancalc/static/css/main.59e3f94b.chunk.css",
-    "main.js": "/ronancalc/static/js/main.2b50e49a.chunk.js",
-    "main.js.map": "/ronancalc/static/js/main.2b50e49a.chunk.js.map",
+    "main.css": "/ronancalc/static/css/main.6c3d8db3.chunk.css",
+    "main.js": "/ronancalc/static/js/main.e99210dd.chunk.js",
+    "main.js.map": "/ronancalc/static/js/main.e99210dd.chunk.js.map",
     "runtime-main.js": "/ronancalc/static/js/runtime-main.19081611.js",
     "runtime-main.js.map": "/ronancalc/static/js/runtime-main.19081611.js.map",
-    "static/js/2.16329dfc.chunk.js": "/ronancalc/static/js/2.16329dfc.chunk.js",
-    "static/js/2.16329dfc.chunk.js.map": "/ronancalc/static/js/2.16329dfc.chunk.js.map",
+    "static/js/2.52a4f69c.chunk.js": "/ronancalc/static/js/2.52a4f69c.chunk.js",
+    "static/js/2.52a4f69c.chunk.js.map": "/ronancalc/static/js/2.52a4f69c.chunk.js.map",
     "static/js/3.7ac9fa73.chunk.js": "/ronancalc/static/js/3.7ac9fa73.chunk.js",
     "static/js/3.7ac9fa73.chunk.js.map": "/ronancalc/static/js/3.7ac9fa73.chunk.js.map",
     "index.html": "/ronancalc/index.html",
-    "static/css/main.59e3f94b.chunk.css.map": "/ronancalc/static/css/main.59e3f94b.chunk.css.map",
-    "static/js/2.16329dfc.chunk.js.LICENSE.txt": "/ronancalc/static/js/2.16329dfc.chunk.js.LICENSE.txt"
+    "static/css/main.6c3d8db3.chunk.css.map": "/ronancalc/static/css/main.6c3d8db3.chunk.css.map",
+    "static/js/2.52a4f69c.chunk.js.LICENSE.txt": "/ronancalc/static/js/2.52a4f69c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.19081611.js",
-    "static/js/2.16329dfc.chunk.js",
-    "static/css/main.59e3f94b.chunk.css",
-    "static/js/main.2b50e49a.chunk.js"
+    "static/js/2.52a4f69c.chunk.js",
+    "static/css/main.6c3d8db3.chunk.css",
+    "static/js/main.e99210dd.chunk.js"
   ]
 }
